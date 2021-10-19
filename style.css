@@ -1,0 +1,49 @@
+
+.cuerpo{
+    font-size: 3cm;
+    font-weight: bolder;
+    text-align: center;
+}
+.cabeza{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    font-size: 1cm;
+}
+
+.menu .iconohome{
+    width: 60px;
+    height: 60px;
+    margin-left: 11.5cm;
+    margin-top: 2cm;
+}
+.menu .iconouser{
+    width: 60px;
+    height: 60px;
+    margin-left: 11.5cm;
+    margin-top: 2cm;
+}
+.menu .iconoimg{
+    width: 60px;
+    height: 60px;
+    margin-left: 11.5cm;
+    margin-top: 2cm;
+}
+
+.menu .iconohome:hover{
+    filter: blur(5px);
+}
+.menu .iconouser:hover{
+    filter: blur(5px);
+}
+.menu .iconoimg:hover{
+    filter: blur(5px);
+}
+form p{
+    margin-top: 1cm;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    border-radius:0.1cm; 
+
+}
